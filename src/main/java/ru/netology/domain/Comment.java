@@ -1,6 +1,6 @@
 package ru.netology.domain;
 
-public class Comments {
+public class Comment {
     private int authorId;
     private boolean canPost;
     private boolean canCreatePhoto;
